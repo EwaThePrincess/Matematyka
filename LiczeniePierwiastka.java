@@ -9,7 +9,7 @@ public static void main(String[] args) {
         System.out.println("Błąd, podaj liczbę nieujemną.");
     } else {
         double pierwiastek = Math.sqrt(x);
-        System.out.println("Pierwiastek z x wynisi " + pierwiastek);
+        System.out.println("Pierwiastek z x wynosi " + pierwiastek);
     }
     }
 }
